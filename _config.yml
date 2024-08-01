@@ -21,7 +21,7 @@ repository               : "nehrawy/nehrawy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.jpg"
   name             : "Abdalalh El Nehrawy"
   pronouns         : # example: "she/her"  
   bio              : "I would love to see my full potential"
@@ -49,13 +49,13 @@ author:
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "n7roo"
+  facebook         : #"n7roo"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "ne7rawy"
+  instagram        : # "ne7rawy"
   lastfm           : # Username
   linkedin         : "ne7rawy"
   mastodon         : # URL
@@ -78,7 +78,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
