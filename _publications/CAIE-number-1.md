@@ -1,9 +1,9 @@
 ---
 title: "An Integrated Machine Learning and Mathematical Modeling Method for Supplier Selection and Order Allocation Considering Dynamic Supplier Performance"
 collection: publications
-permalink: /publication/CAIE-number-1
+permalink: /publication/CAIE-number-1/
 excerpt: 'This paper is about using machine learning inegrated within a mathematical optimization model to adapt to suppliers' dynamic performace'
-date: still in review
+date: 2025-02-04
 venue: 'Computers and Industrial Engineering'
 paperurl: ''
 citation: ''
